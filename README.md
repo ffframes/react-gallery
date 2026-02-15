@@ -1,0 +1,3 @@
+- honestly, not as bad as i expected it to be
+- a bit weird doing everything in react becuase for the last 6 weeks I've been trying to wrap my head around HTML, CSS and JavaScript.
+- so its a learning curve learning to do multiple functions in just one format, if that makes sense, just learning something new to what i thought would be the norm
